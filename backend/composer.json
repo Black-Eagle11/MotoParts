@@ -1,10 +1,18 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "black-eagle11/motoparts-backend",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
+    "description": "Proprietary backend API for the MotoParts motorcycle parts e-commerce platform.",
+    "keywords": [
+        "motoparts",
+        "motorcycle-parts",
+        "e-commerce",
+        "laravel",
+        "rest-api",
+        "proprietary"
+    ],
+    "homepage": "https://github.com/Black-Eagle11/MotoParts",
+    "license": "proprietary",
     "require": {
         "php": "^8.3",
         "laravel/framework": "^13.17",
